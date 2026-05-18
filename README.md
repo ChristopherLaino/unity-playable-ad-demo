@@ -11,6 +11,7 @@ A lightweight playable ad prototype built with Unity WebGL, designed for mobile 
 ## 🎥 Gameplay Preview
 
 ![Gameplay Demo](gameplay.gif)
+<img src="gameplay.gif" width="300">
 
 ---
 
