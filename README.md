@@ -6,7 +6,7 @@ A lightweight playable ad prototype built with Unity WebGL, designed for mobile 
 
 ## 🎮 Live Demo
 
-👉 https://tuonome.github.io/unity-playable-ad-demo/
+👉 https://christopherlaino.github.io/unity-playable-ad-demo/
 
 ---
 
@@ -62,4 +62,4 @@ No external SDKs are required for running the demo version.
 
 ## 👤 Author
 
-Unity Developer specializing in playable ads and WebGL experiences.
+Christopher Laino, Unity Developer specializing in playable ads and WebGL experiences.
