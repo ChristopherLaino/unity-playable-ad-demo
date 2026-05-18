@@ -8,6 +8,10 @@ A lightweight playable ad prototype built with Unity WebGL, designed for mobile 
 
 👉 https://christopherlaino.github.io/unity-playable-ad-demo/
 
+## 🎥 Gameplay Preview
+
+![Gameplay Demo](GIFs/gameplay.gif)
+
 ---
 
 ## 📱 Overview
