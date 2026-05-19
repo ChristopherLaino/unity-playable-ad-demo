@@ -65,7 +65,7 @@ This project demonstrates experience with:
 
 ## 📦 Features
 
-- Lightweight WebGL build
+- Lightweight WebGL build (<4 MB)
 - Touch-friendly controls
 - Mobile-oriented layout
 - Interactive tutorial flow
