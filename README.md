@@ -1,6 +1,6 @@
 # Unity Playable Ad Demo
 
-A lightweight playable ad prototype built with Unity WebGL, designed for mobile advertising campaigns and interactive marketing experiences.
+A mobile-first playable ad prototype built with Unity WebGL, focused on interactive gameplay onboarding and ad-style UX flow.
 
 ---
 
@@ -8,22 +8,36 @@ A lightweight playable ad prototype built with Unity WebGL, designed for mobile 
 
 👉 https://christopherlaino.github.io/unity-playable-ad-demo/
 
+---
+
 ## 🎥 Gameplay Preview
 
-<img src="gameplay.gif" width="300">
+<p align="center">
+  <img src="gameplay.gif" width="380">
+</p>
 
 ---
 
-## 📱 Overview
+## 📱 Project Overview
 
-This project simulates a real-world playable ad experience, including:
+This project is a portfolio-safe adaptation of a real playable ad production workflow originally developed for a client.
 
-- Mobile-first gameplay design
-- Interactive onboarding flow
-- In-game progression loop
-- Ad-style UX structure
-- CTA-ready architecture (integration inside gameplay)
-- Optimized WebGL build for browser/mobile
+The original production version included SDK integration pipelines targeting multiple advertising providers, including:
+
+- AppLovin
+- Google
+- Mintegral
+
+The purpose of the playable was to introduce and simplify the game's core gameplay loop through a short interactive ad experience optimized for mobile acquisition campaigns.
+
+For public portfolio release:
+
+- All original proprietary assets were removed
+- Original branding and visual content were replaced
+- CC0/public-domain assets were used where possible
+- Additional placeholder visuals were generated using AI tools
+
+The gameplay structure, interaction flow, and playable ad logic were preserved to demonstrate production-oriented implementation and UX design.
 
 ---
 
@@ -31,19 +45,21 @@ This project simulates a real-world playable ad experience, including:
 
 - Unity Engine
 - C#
-- WebGL export
+- Unity WebGL
 - HTML5 wrapper
 
 ---
 
-## 🎯 Purpose
+## 🎯 Focus Areas
 
-This project was created as a portfolio piece for freelance work in:
+This project demonstrates experience with:
 
 - Playable ads development
-- Unity WebGL optimization
-- Mobile game prototyping
-- Interactive marketing creatives
+- Unity WebGL workflows
+- Mobile-first UX
+- Interactive onboarding flows
+- Lightweight browser-based game experiences
+- Advertising-oriented gameplay design
 
 ---
 
@@ -51,19 +67,22 @@ This project was created as a portfolio piece for freelance work in:
 
 - Lightweight WebGL build
 - Touch-friendly controls
-- Fast startup time
-- Mobile responsive design
-- Ad-style gameplay flow
+- Mobile-oriented layout
+- Interactive tutorial flow
+- Gameplay-focused ad structure
+- Browser-playable deployment
 
 ---
 
 ## 🧠 Notes
 
-This is a standalone playable prototype.  
-No external SDKs are required for running the demo version.
+This repository contains a standalone portfolio version only.
+
+No proprietary SDKs, client assets, internal tools, or commercial advertising integrations are included in this public release.
 
 ---
 
 ## 👤 Author
 
-Christopher Laino, Unity Developer specializing in playable ads and WebGL experiences.
+Christopher Laino  
+Unity Developer specializing in playable ads, WebGL experiences, and interactive mobile marketing creatives.
